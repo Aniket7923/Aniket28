@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Kumar Singh</h1>
 <h3 align="center">I am passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/2b1568e9-5fd3-4030-b1b5-c85f6a587450)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c9761b5f-5e22-4a96-93e0-81680a68cae7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-kumar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-kumar-singh" /> </p>
 
